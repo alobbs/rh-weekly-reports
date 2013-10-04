@@ -1,6 +1,4 @@
 import utils
-import msg_test
-import msg_managers
 import applescript
 
 ASCRIPT = """\
