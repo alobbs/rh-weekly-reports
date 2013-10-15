@@ -10,8 +10,8 @@ CC = [('John Bresnahan', 'jbresnah@redhat.com'),
       ('John Bresnahan', 'jbresnah@redhat.com'),
       ('Mark Wagner', 'mwagner@redhat.com'),
       ('Fabio M. Di Nitto', 'fdinitto@redhat.com'),
-      ('Stephen Gordon', 'sgordon@redhat.com'),
-      ('Mike Orazi', 'morazi@redhat.com')]
+      ('Mike Orazi', 'morazi@redhat.com'),
+      ('Summer Long', 'slong@redhat.com')]
 
 BODY = """\
 Hi everybody,
