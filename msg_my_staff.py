@@ -1,5 +1,4 @@
-TO = [('Alvaro Lopez Ortega', 'aortega@redhat.com')]
-CC = [('Daniel Radez', 'dradez@redhat.com'),
+TO = [('Daniel Radez', 'dradez@redhat.com'),
       ('Gilles Dubreuil', 'gdubreui@redhat.com'),
       ('Ian Wienand', 'iwienand@redhat.com'),
       ('Ivan Chavero', 'ichavero@redhat.com'),
@@ -8,14 +7,15 @@ CC = [('Daniel Radez', 'dradez@redhat.com'),
       ('Matthias Runge', 'mrunge@redhat.com'),
       ('Ondrej Slampa', 'oslampa@redhat.com'),
       ('William Foster', 'wfoster@redhat.com')]
+CC = []
 
 BODY = """\
 Hi folks!
 
-This is just a friendly reminder that I expect your weekly status reports today.
+This is just a friendly reminder that I expect your weekly status reports by tomorrow.
 
-Please, reply to this message with your status update. Thanks.
+Please, reply to this message with your status update, optionally copying your team's mailing list.
 
-Have a good weekend!
+Thanks,
 Alvaro
 """
