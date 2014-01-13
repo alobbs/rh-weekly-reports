@@ -1,9 +1,7 @@
 TO = [('Cloud Team Status', 'cloud-team-status@redhat.com')]
-CC = [('John Bresnahan', 'jbresnah@redhat.com'),
-      ('Dave Allan', 'dallan@redhat.com'),
+CC = [('Dave Allan', 'dallan@redhat.com'),
       ('Eoghan Glynn', 'eglynn@redhat.com'),
       ('Perry Myers', 'pmyers@redhat.com'),
-      ('Angus Salkeld', 'asalkeld@redhat.com'),
       ('Padraig Brady', 'pbrady@redhat.com'),
       ('Livnat Peer', 'lpeer@redhat.com'),
       ('Eric Harney', 'eharney@redhat.com'),
